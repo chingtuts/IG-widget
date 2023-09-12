@@ -1,3 +1,3 @@
 # Instagram Feed Widget
 
-Description
+Description:
